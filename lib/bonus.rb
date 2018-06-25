@@ -20,8 +20,8 @@ def bonus
    }
   }
 
-:capulet[:heroine][:status] = "dead"
-:montague[:hero][:status] = "dead"
+  :capulet[:heroine][:status] = "dead"
+  :montague[:hero][:status] = "dead"
 
 
 
